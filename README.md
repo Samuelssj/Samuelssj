@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-<h2> Olá meu nome é Samuel S. Júnior.
+<h2> Olá meu nome é Samuel Júnior.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -8,7 +8,7 @@
 
 <h3> 🧑‍💻 Um pouco Sobre mim: </h3>
 
-🔹 🎓 &nbsp; Sou estudante do curso de **Bacharelado em Sistemas de Informação (BSI)** na <a href="http://www.ufrpe.br/br">UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO - UFRPE.</a>
+🔹 🎓 &nbsp; Sou formado como **Bacharel em Sistemas de Informação (BSI)** pela <a href="http://www.ufrpe.br/br">UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO - UFRPE.</a>
 
 🔹👨‍🎓&nbsp; Sou formado como tecnólogo em **Manutenção e Suporte em Informática (MSI)** pelo <a href="https://www.ifpb.edu.br/">INSTITUTO FEDERAL DA PARAÍBA - IFPB.</a>
 
