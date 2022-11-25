@@ -82,8 +82,9 @@ arrogância. **A humildade ainda é a parte mais bela da sabedoria**”
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/samuel.junior.52)
+[![Facebook](https://img.shields.io/badge/Samuel_Junior-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/samuel.junior.52)
 [![Instagram](https://img.shields.io/badge/samuel.dev_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samuel.dev_/)
 [![LinkedIn: SAMUEL_JUNIOR](https://img.shields.io/badge/SAMUEL_JUNIOR-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-j%C3%BAnior-00bab8192/)
 [![Gmail](https://img.shields.io/badge/samuelssj06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelssj06@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuelssj)
+  
