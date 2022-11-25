@@ -64,4 +64,4 @@ arrogância. **A humildade ainda é a parte mais bela da sabedoria**”
 
 [![Linkedin: Samuel](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/samuel-j%C3%BAnior-00bab8192/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/samuel-j%C3%BAnior-00bab8192/))
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub Samuel]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Samuelssj))
+[![GitHub Samuel]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Samuelssj)
