@@ -12,9 +12,11 @@
 
 🔹👨‍🎓&nbsp; Sou formado como tecnólogo em **Manutenção e Suporte em Informática (MSI)** pelo <a href="https://www.ifpb.edu.br/">INSTITUTO FEDERAL DA PARAÍBA - IFPB.</a>
 
-🔹🌱 &nbsp; Desejo explorar cada vez mais, novas tecnologias e desenvolver soluções de software.
+🔹🌱 &nbsp; Desejo explorar cada vez mais, novas tecnologias e suas soluções.
 
-🔹 📖 &nbsp; Sigo sempre aprendendo, sobre novas **TECNOLOGIAS...**.
+🔹 📖 &nbsp; “Por mais inteligente que alguém possa ser, se não for humilde, o seu melhor se perde na
+arrogância. **A humildade ainda é a parte mais bela da sabedoria**”
+(Autor: desconhecido.).
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
