@@ -34,13 +34,14 @@ arrogância. **A humildade ainda é a parte mais bela da sabedoria**”
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 
 
 **Utilidades**
 
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+
 
 **DevOps**
 
@@ -62,6 +63,8 @@ arrogância. **A humildade ainda é a parte mais bela da sabedoria**”
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Samuel](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/samuel-j%C3%BAnior-00bab8192/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/samuel-j%C3%BAnior-00bab8192/))
+[![Linkedin: Samuel](https://img.shields.io/badge/-SAMUEL_JUNIOR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/samuel-j%C3%BAnior-00bab8192/]
+  
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+  
 [![GitHub Samuel]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Samuelssj)
