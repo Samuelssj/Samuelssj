@@ -8,15 +8,13 @@
 
 <h3> 🧑‍💻 Um pouco Sobre mim: </h3>
 
-🔹 🎓 &nbsp; Sou formado como **Bacharel em Sistemas de Informação (BSI)** pela <a href="http://www.ufrpe.br/br">UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO - UFRPE.</a>
+🔹👨‍🎓&nbsp; Sou formado como **Bacharel em Sistemas de Informação (BSI)** pela <a href="http://www.ufrpe.br/br">UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO - UFRPE.</a>
 
 🔹👨‍🎓&nbsp; Sou formado como tecnólogo em **Manutenção e Suporte em Informática (MSI)** pelo <a href="https://www.ifpb.edu.br/">INSTITUTO FEDERAL DA PARAÍBA - IFPB.</a>
 
-🔹🌱 &nbsp; Desejo explorar cada vez mais, novas tecnologias e suas soluções.
-
-🔹 📖 &nbsp; “Por mais inteligente que alguém possa ser, se não for humilde, o seu melhor se perde na
+🔹 📖 &nbsp;  “Por mais inteligente que alguém possa ser, se não for humilde, o seu melhor se perde na
 arrogância. **A humildade ainda é a parte mais bela da sabedoria**”
-(Autor: desconhecido.).
+(Autor: desconhecido).
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
