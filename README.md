@@ -19,7 +19,7 @@ arrogância. **A humildade ainda é a parte mais bela da sabedoria**”
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Developer**
+**Programação**
 
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
